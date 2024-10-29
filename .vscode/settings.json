@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "main.c": "cpp",
+        "sensor_db.C": "cpp"
+    }
+}
